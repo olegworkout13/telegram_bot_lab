@@ -1,0 +1,22 @@
+{
+  "name": "telega_bot_lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RuStyC0der/telega_bot_lab.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RuStyC0der/telega_bot_lab/issues"
+  },
+  "homepage": "https://github.com/RuStyC0der/telega_bot_lab#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.40.0"
+  }
+}
